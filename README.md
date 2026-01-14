@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/logo.png" width="800" alt="Project Niche-Layer Logo">
+</p>
+
+# Project-Niche-Layer
+...（以下、既存の内容）
 # Project-Niche-Layer
 Decentralized 3D Multi-Layer Mobility Infrastructure refactoring the urban OS for the next generation.
 # Project Niche-Layer (PNL)
