@@ -36,6 +36,24 @@ Decentralized 3D Multi-Layer Mobility Infrastructure refactoring the urban OS fo
 
 ---
 
+## 🗺️ ロードマップ (Roadmap)
+
+本プロジェクトは、以下の3つのフェーズで開発を推進します。
+
+### Phase 1: 仮想空間での理論実証 (Current)
+- [ ] **Simulation**: Unity上でのポッド/フレーム合体・分離の物理安定性確認。
+- [ ] **Safety**: ポッド自律センサーによる自由落下判定ロジックのプロトタイプ完了。
+- [ ] **Logic**: 2拠点間（ハブ間）の最短経路・スワップタイミングの算出。
+
+### Phase 2: 都市OSプロトコル・シミュレーション
+- [ ] **Network**: 複数ハブを跨ぐ「非同期バケツリレー」のトラフィック最適化。
+- [ ] **Hardware API**: 最小限のラッチ機構（物理API）の仕様確定。
+- [ ] **Safety**: 10ms低遅延での逆噴射点火割り込み処理の実装。
+
+### Phase 3: 実証実験への橋渡し
+- [ ] **Architecture**: マルチレイヤー都市OSのデータ構造（レイヤー-1〜2）の定義。
+- [ ] **Community**: 物理試作機（1/10モデル等）の設計データ公開。
+
 ## 🤝 協力者募集 (How to Contribute)
 資本金ゼロ、しがらみゼロ。あるのは論理と情熱、そしてGitHubだけです。
 
