@@ -3,8 +3,6 @@
 </p>
 
 # Project-Niche-Layer
-...（以下、既存の内容）
-# Project-Niche-Layer
 Decentralized 3D Multi-Layer Mobility Infrastructure refactoring the urban OS for the next generation.
 # Project Niche-Layer (PNL)
 ### 「道路」というレガシーOSを、3次元でリファクタリングする。
