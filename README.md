@@ -41,7 +41,7 @@ Decentralized 3D Multi-Layer Mobility Infrastructure refactoring the urban OS fo
 
 現在、以下の3つのサブプロジェクトでIssueを公開し、仲間を募っています。
 - **[Simulation]**: Unityによるポッド/フレームの物理挙動検証（Issue #1）
-- **[Logic]**: Dijkstra拡張による都市型経路探索エンジン（Issue #2）
+- **[Logic]**: 都市型経路探索エンジン（Issue #2）
 - **[Safety]**: ポッド自律型「逆噴射」制御カーネル（Issue #3）
 
 詳細は `docs/whitepaper_JP.md` を参照してください。
