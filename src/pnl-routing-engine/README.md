@@ -1,6 +1,3 @@
-![Issue 1 Header](../blob/main/assets/issue1_header.jpg?raw=true)
-
----
 # PNL Routing Engine
 
 ## 📌 概要
